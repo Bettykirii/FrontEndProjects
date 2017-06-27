@@ -1,0 +1,34 @@
+body{
+	background-color: #64bd47;
+}
+.form{
+	background-color: #fff;
+	width: 494px;
+	height:392px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+a{
+	color: #00b242;
+}
+.value input{
+	background-color: #f2f2f2;
+	margin-left:60px;
+	width: 360px;
+	height:64px;
+	margin-top: 21px;
+	padding-left: 22px;
+	border: none;
+
+}
+.submit input{
+	height:64px;
+	background-color: #00b242;
+	width:360px;
+	margin-left:60px;
+	border:none;
+
+}
+.register{
+	margin-left:124px;
+}

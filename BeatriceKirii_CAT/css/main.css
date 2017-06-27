@@ -1,0 +1,157 @@
+#betty{
+	background-color: #ededed;
+	width:1280px;
+	height:859px;
+	margin:0 auto;
+
+}
+.kirii{
+	background-color: #a94f4f;
+	height:32px;
+	font-size: 25px;
+	color:#ffffff;
+	width:1140px;
+	padding-left:140px;
+	padding-top: 18px;
+
+
+}
+.episode{
+	background-color: #ffffff;
+	min-height:733px;
+	width:1000px;
+	margin: 0 auto;
+}
+.episode1{
+	background-color: #ffffff;
+
+	height: 270px;
+	width: 462.5px;
+	margin-right: 25px;
+	margin-left: 25px;
+    margin-top: 25px;
+	float:left;
+
+}
+.episode2 h1{
+	color:#ab5254;
+}
+.episode2{
+	background-color:#ffffff;
+	height: 270px;
+	width: 462.5px;
+	margin-right: 25px;
+	margin-top: 25px;
+	float:right;
+
+}
+.episode2 h3{
+	color:#878787;
+}
+.episode3{
+	background-color: #919191;
+	width:300px;
+	height:204px;
+	margin-left: 25px;
+	margin-top: 25px;
+	margin-right: 25px;
+	float:left;
+	background-image: url("../images/minions.jpg");
+
+	}
+
+.episode4{
+	background-color: #919191;
+	width:300px;
+	height:204px;
+	margin-top: 25px;
+	margin-right: 25px;
+	float:left;
+	background-image: url("../images/tinkerbell.jpg");
+
+	
+	}
+
+.episode5{
+	background-color: #919191;
+	width:300px;
+	height:204px;
+	margin-top: 25px;
+	margin-right: 25px;
+	float:left;
+	background-image: url("../images/garfield.jpg");
+
+	
+	}
+
+.episode6 h2{
+ color:#ac5357;
+}
+.episode6{
+	background-color: #ffffff;
+	width:300px;
+	height:159px;
+	margin-left: 25px;
+	margin-top: 25px;
+	margin-right: 25px;
+	float:left;
+
+	}
+.episode7 h2{
+	color: #ac5357;
+}	
+.episode7{
+	background-color: #ffffff;
+	width:300px;
+	height:159px;
+	margin-top: 25px;
+	margin-right: 25px;
+	float:left;
+	}
+
+.episode8{
+	background-color: #ffffff;
+	width:300px;
+	height:159px;
+	margin-top: 25px;
+	margin-right: 25px;
+	float:left;
+	}
+.episode8 h2{
+	color:#ac5357;
+}	
+	.shoes{
+	float: left;
+	color:#939393;
+	padding-left: 140px;
+	padding-top:23px; 
+	padding-bottom:23px;
+
+
+	}
+	.conditions{
+		
+	color:#c0c0c0;
+	float:right;
+	padding-right: 140px;
+	padding-top:23px; 
+	padding-bottom:23px;
+
+
+
+	}
+
+.episode2 hr{
+	color:#e7e7e7;
+}
+.episode2 a{
+   color:#d38183;
+   text-decoration: none;
+}
+.episode8 a{
+	color:#d38183;
+	text-decoration: none;
+}	
+ul li{
+	margin-left: -20px;
+}

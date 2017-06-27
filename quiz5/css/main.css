@@ -1,0 +1,83 @@
+body{
+	background-color: #fff;
+	
+
+}
+
+
+.shoes{
+	background-color: #333333;
+	height: 50px;
+	max-width:1500px;
+	margin-top:25px;
+
+}
+
+.vans{
+	height:1000px;
+	width:1300px;
+	background-color:#bfbfbf;
+	margin:0 auto;
+	margin-top: -25px;
+	
+}
+.vans1{
+	height:200px;
+	width:612px;
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #fff;
+	float:left;
+}
+.vans2{
+	height:200px;
+	width:612px;
+	margin-right: 25px;
+	margin-top: 25px;
+	
+	float:right;
+}
+.vans3{
+	height:200px;
+	width:408px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+	float:right;
+
+}
+.vans4{
+	height:200px;
+	width:406px;
+	margin-top:20px;
+	
+	float:right;
+
+}
+.vans5{
+	height:200px;
+	width:406px;
+	margin-right: 20px;
+	margin-top: 20px;
+	float:right;
+
+}
+.vans6{
+	height:450px;
+	width:1252px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-left: 20px;
+	background-color: #f3a5a7;
+	float:right;
+
+}
+.h1{
+	margin-right:20px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+

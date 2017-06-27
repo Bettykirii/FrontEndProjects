@@ -1,0 +1,10 @@
+body{
+	background-color: grey;
+
+}
+.betty{
+	width:1000px;
+	margin:0 auto;
+	padding:20px;
+	min-height: 500px;
+}

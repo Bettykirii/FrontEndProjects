@@ -1,0 +1,143 @@
+body{
+	background-color:blue;
+	width:1400px;
+	height:760px;
+}
+header{
+	text-align: center;
+	background-color: cyan;
+	width: 1400px;
+	height: 50px;
+	margin-top: -18px;
+
+}
+header ul li{
+	text-decoration:none;
+	display:inline-block;
+	padding: 10px;
+
+}
+header ul li a{
+	text-decoration: none;
+
+}
+.tank1{
+	background-image: url(../images/sofiaps.png);
+	width:325px;
+	height:200px;
+	margin-top: 20px;
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.tank2{
+	background-image: url(../images/mickeyps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	margin-top: 20px;
+	margin-right: 20px;
+	float:left;
+}
+.tank3{
+	background-image: url(../images/minionsps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	margin-top:20px;
+	margin-right:20px;
+	float:left;
+
+}
+.tank4{
+	background-image: url(../images/garfieldps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	float:left;
+	margin-top:20px;
+	margin-right:20px;
+}
+.tank5{
+	background-image: url(../images/harryps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top:20px;
+	margin-right: 20px;
+}
+.tank6{
+	background-image: url(../images/sofiaps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-top:20px;
+}
+.tank7{
+	background-image: url(../images/mickeyps.png);
+	width:325px;
+	height:200px;
+	
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-top:20px;
+}
+.tank8{
+	background-image: url(../images/sofiaps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-top:20px;
+}
+.tank9{
+	background-image: url(../images/mickeyps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+.tank10{
+	background-image: url(../images/sofiaps.png);
+	width:325px;
+	height:200px;
+	
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+.tank11{
+	background-image: url(../images/mickeyps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-top:20px;
+	margin-bottom: 20px;
+}
+.tank12{
+	background-image: url(../images/sofiaps.png);
+	width:325px;
+	height:200px;
+	background-color: white;
+	float: left;
+	margin-right: 20px;
+	margin-top:20px;
+	margin-bottom: 20px;
+}

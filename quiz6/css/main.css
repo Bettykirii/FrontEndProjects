@@ -1,0 +1,39 @@
+body{
+	background-color: #fff;
+}
+
+th,tr,td{
+	
+	text-indent: 5px;
+	border:1px solid black;
+	
+	padding: 0px;
+
+}
+
+
+table{
+	width:946px;
+	height:306px;
+	margin: 0 auto;
+	border-collapse: collapse;
+	margin-top: 50px;
+    
+}
+table tr:nth-child(even) {
+    background-color: #f9f9f9;
+
+
+}
+.main,th{
+	color:#337ab8;
+	text-align: left;
+    
+
+}
+
+
+
+
+
+

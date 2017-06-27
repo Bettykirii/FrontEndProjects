@@ -1,0 +1,13 @@
+ body{
+	background-color: grey;
+	background-image: url(../images/guitar.jpg);
+}
+
+
+.warware{
+	background-color: pink;
+	width:600px;
+	margin: 0 auto;
+	padding:20px;
+	min-height: auto;
+}
